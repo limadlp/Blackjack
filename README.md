@@ -1,6 +1,5 @@
 # Blackjack com Neuroevolução
 
-Arquivos:
 ### 21.ipynb 
 Para treinar a rede
 ### 21_treinado.ipynb
