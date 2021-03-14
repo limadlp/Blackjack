@@ -1,5 +1,7 @@
 # Blackjack com Neuroevolução
 
+Perceptron + algoritmos genéticos.
+
 ### 21.ipynb 
 Para treinar a rede
 ### 21_treinado.ipynb
